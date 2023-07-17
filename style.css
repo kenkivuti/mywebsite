@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+.group{
+    color: blue;
+    
+}
+
+.list{
+    color: green;
+}
+
+.head{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.profile{
+    margin-left: 100px;
+}
